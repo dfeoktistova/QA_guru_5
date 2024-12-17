@@ -1,6 +1,5 @@
-from selene import have, by
+from selene import browser, have, by
 import os
-from test.conftest import *
 
 
 first_name = 'Santa'
